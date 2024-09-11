@@ -1,0 +1,29 @@
+@charset "utf-8";
+.morado {
+    background-color: #72008d;
+}
+
+.titulo {
+	position:relative;
+	top: -600px;
+	left: 15px;
+}
+.imagen {
+
+}
+.rubik {
+    font-family: 'Rubik Mono One';
+}
+.clarito {
+	color:#FFFFFF;
+}
+.montserrat{
+	font-family: "Montserrat Medium";
+}
+
+@font-face {
+	font-family: 'RubikMonoOne-regular';
+	src: url("fonts/RubikMonoOne-Regular.ttf");
+	font-weight: bold;
+	font-style: Bold;
+}
